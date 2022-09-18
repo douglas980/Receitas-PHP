@@ -1,0 +1,15 @@
+{
+    "name": "douglas/my-receitas",
+    "authors": [
+        {
+            "name": "Douglas Florencio",
+            "email": "douglas_camargo980@outlook.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "app\\" : "app/"
+        }
+    }
+}
